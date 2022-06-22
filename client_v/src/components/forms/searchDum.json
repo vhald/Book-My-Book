@@ -1,0 +1,149 @@
+[
+    {
+        "image": {
+            "contentType": "image/jpeg"
+        },
+        "_id": "626ab6289f22a4b0a08d3751",
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "content": "No matter your goals, Atomic Habits offers a proven framework for improving--every day. James Clear, one of the world's leading experts on habit formation, reveals practical strategies that will teach you exactly how to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results.",
+        "location": "Jabalpur",
+        "price": 40,
+        "from": "2022-04-28T00:00:00.000Z",
+        "to": "2022-05-07T00:00:00.000Z",
+        "genre": "Self-Help",
+        "postedBy": {
+            "_id": "626928e95b8c667c8e6552de",
+            "name": "vaibhav stripe"
+        },
+        "createdAt": "2022-04-28T15:43:36.471Z",
+        "updatedAt": "2022-04-28T15:43:36.471Z",
+        "__v": 0
+    },
+    {
+        "image": {
+            "contentType": "image/jpeg"
+        },
+        "_id": "626ab6de9f22a4b0a08d375b",
+        "title": "The 3 mistakes of my life",
+        "author": "Chetan Bhagat",
+        "content": "Can an individual's dreams overcome the nightmares offered by real life? Can we succeed despite a few mistakes? ",
+        "location": "Jabalpur",
+        "price": 23,
+        "from": "2022-04-28T00:00:00.000Z",
+        "to": "2022-05-07T00:00:00.000Z",
+        "genre": "Cultural, Humor",
+        "postedBy": {
+            "_id": "626928e95b8c667c8e6552de",
+            "name": "vaibhav stripe"
+        },
+        "createdAt": "2022-04-28T15:46:38.201Z",
+        "updatedAt": "2022-04-28T15:46:38.201Z",
+        "__v": 0
+    },
+    {
+        "image": {
+            "contentType": "image/png"
+        },
+        "_id": "626ab7599f22a4b0a08d375d",
+        "title": "Harry Potter Series",
+        "author": "J.K. Rowling",
+        "content": "Over 4000 pages of Harry Potter and his world, including all 7 books.\r\nAll seven Books in the multi-award winning, internationally bestselling Harry Potter series.  Enjoy the stories that have captured the imagination of millions worldwide.",
+        "location": "Bangalore",
+        "price": 120,
+        "from": "2022-04-28T00:00:00.000Z",
+        "to": "2022-05-19T00:00:00.000Z",
+        "genre": "Fiction",
+        "postedBy": {
+            "_id": "626928e95b8c667c8e6552de",
+            "name": "vaibhav stripe"
+        },
+        "createdAt": "2022-04-28T15:48:41.937Z",
+        "updatedAt": "2022-04-28T15:48:41.937Z",
+        "__v": 0
+    },
+    {
+        "image": {
+            "contentType": "image/jpeg"
+        },
+        "_id": "626ab8ad9f22a4b0a08d3768",
+        "title": "The Power of HABIT",
+        "author": "Charles Duhigg",
+        "content": "Habits aren’t destiny. As Charles Duhigg shows, by harnessing this new science, we can transform our businesses, our communities, and our lives.",
+        "location": "304/A, Mansarovar Building, Churchgate, Mumbai",
+        "price": 25,
+        "from": "2022-04-29T00:00:00.000Z",
+        "to": "2022-05-07T00:00:00.000Z",
+        "genre": "Self-Help",
+        "postedBy": {
+            "_id": "6266477df5e87b960f94a94e",
+            "name": "vhald"
+        },
+        "createdAt": "2022-04-28T15:54:21.739Z",
+        "updatedAt": "2022-04-28T15:54:21.739Z",
+        "__v": 0
+    },
+    {
+        "image": {
+            "contentType": "image/jpeg"
+        },
+        "_id": "626abe639f22a4b0a08d37fb",
+        "title": "The Mitrokhin Archive II",
+        "author": "C. Andrew & Vasili Mitrokhin",
+        "content": "In 1992, MI6 exfiltrated Vasili Mitrokhin, the most senior activist in the KGB, who had been responsible for running the KGB archives. He had noted thousands of documents, described by the FBI as the greatest single cache of intelligence ever received by the West.' This archive resulted in many prosecutions, some of which are still ongoing. of Modern History at Cambridge and the world's leading intelligence scholar.",
+        "location": "Jabalpur",
+        "price": 10,
+        "from": "2022-04-29T00:00:00.000Z",
+        "to": "2022-05-11T00:00:00.000Z",
+        "genre": "History, Spy",
+        "postedBy": {
+            "_id": "6266477df5e87b960f94a94e",
+            "name": "vhald"
+        },
+        "createdAt": "2022-04-28T16:18:43.979Z",
+        "updatedAt": "2022-04-28T16:18:43.979Z",
+        "__v": 0
+    },
+    {
+        "image": {
+            "contentType": "image/jpeg"
+        },
+        "_id": "626aca64b0aac5f25edb10a6",
+        "title": "Gone Girl",
+        "author": "Gillian Flynn",
+        "content": "One of the most critically acclaimed suspense writers of our time, New York Times bestseller Gillian Flynn takes that statement to its darkest place in this unputdownable masterpiece about a marriage gone terribly, terribly wrong.",
+        "location": "Jabalpur, M.P.",
+        "price": 34,
+        "from": "2022-04-30T00:00:00.000Z",
+        "to": "2022-05-10T00:00:00.000Z",
+        "genre": "Thriller, Mystery-crime, Suspense",
+        "postedBy": {
+            "_id": "6266477df5e87b960f94a94e",
+            "name": "vhald"
+        },
+        "createdAt": "2022-04-28T17:09:56.077Z",
+        "updatedAt": "2022-04-28T17:09:56.077Z",
+        "__v": 0
+    },
+    {
+        "image": {
+            "contentType": "image/jpeg"
+        },
+        "_id": "626b8a2cf602ec765cd2a119",
+        "title": "The Psychology of Money",
+        "author": "Morgan Housel",
+        "content": "Timeless lessons on wealth, greed, and happiness doing well with money isn’t necessarily about what you know. It’s about how you behave. And behavior is hard to teach, even to really smart people. But in the real world, people don’t make financial decisions on a spreadsheet. They make them at the dinner table, or in a meeting room, where personal history, your unique view of the world, ego, pride, marketing, and odd incentives are scrambled together. In the psychology of money, the author shares 19 short stories exploring the strange ways people think about money and teaches you how to make better sense of one of life’s most important matters.",
+        "location": "Jabalpur",
+        "price": 15,
+        "from": "2022-05-02T00:00:00.000Z",
+        "to": "2022-05-23T00:00:00.000Z",
+        "genre": "Finance, Psychology",
+        "postedBy": {
+            "_id": "6266477df5e87b960f94a94e",
+            "name": "vhald"
+        },
+        "createdAt": "2022-04-29T06:48:12.219Z",
+        "updatedAt": "2022-04-29T06:48:12.219Z",
+        "__v": 0
+    }
+]

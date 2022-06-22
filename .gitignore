@@ -1,0 +1,5 @@
+client_v/node_modules
+server_v/node_modules
+server_v/.env
+client_v/.env
+testDataFile.js
